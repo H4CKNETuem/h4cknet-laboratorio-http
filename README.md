@@ -33,10 +33,8 @@ No hace falta tener experiencia previa en pentesting: la idea es **aprender prob
 En este repositorio, pulsa **Code → Download ZIP** y descomprime el archivo. También puedes clonarlo si ya utilizas Git:
 
 ```bash
-git clone https://github.com/TU-USUARIO/h4cknet-laboratorio-http.git
+git clone https://github.com/H4CKNETuem/h4cknet-laboratorio-http.git
 ```
-
-> Si lo descargas como ZIP, **no necesitas instalar Git**. La dirección anterior es un ejemplo: sustituye `TU-USUARIO` por la cuenta u organización donde esté publicado este repositorio.
 
 ### 2. Arrancar Docker
 
