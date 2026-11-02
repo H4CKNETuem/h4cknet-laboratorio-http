@@ -1,0 +1,9 @@
+AURORACORP — NOTA DE MIGRACIÓN (COPIA LOCAL)
+
+Archivo recuperado del equipo de soporte durante la migración de identidades.
+Datos ficticios creados únicamente para un ejercicio académico autorizado.
+
+usuario: alex
+contraseña: bienvenido1
+
+Nota: el resto de cuentas no figura en este documento.

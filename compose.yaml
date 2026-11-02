@@ -1,0 +1,18 @@
+name: h4cknet-aurora-v3
+services:
+  web:
+    build: .
+    ports:
+      - "127.0.0.1:8080:8080"
+    environment:
+      LAB_SESSION_SECRET: "local-educational-only-change-for-each-install"
+    read_only: true
+    tmpfs:
+      - /tmp:size=16m
+    security_opt:
+      - no-new-privileges:true
+    cap_drop:
+      - ALL
+    pids_limit: 64
+    mem_limit: 256m
+    restart: 'no'
